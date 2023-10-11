@@ -1,5 +1,5 @@
 
-This website contains a collection of 6 projects. Each project focuses on different aspects of data analysis, using diverse data analysis tools and programming languages, and provides unique insights and solutions to various problems.
+This website contains a collection of my projects, each showcasing my passion for data analysis. These projects encompass a wide range of data analysis tools and programming languages, offering a glimpse into my diverse skill set and problem-solving abilities. Each project is a unique journey, providing insightful solutions to real-world challenges.
 
 
 Credits:
