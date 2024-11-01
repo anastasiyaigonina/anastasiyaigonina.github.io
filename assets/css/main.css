@@ -2115,7 +2115,6 @@ input, select, textarea {
 			float: right;
 			margin: 0 0 1em 1.5em;
 			top: 0.25em;
-			left: 1em;
 		}
 
 		.image.left, .image.right {
@@ -2168,7 +2167,6 @@ input, select, textarea {
 	}
 
 		ul li {
-			text-align: justify; 
 			padding-left: 0.5em;
 		}
 
