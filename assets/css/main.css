@@ -2165,6 +2165,10 @@ input, select, textarea {
 		list-style: disc;
 		margin: 0 0 2em 0;
 		padding-left: 1em;
+		color: #787878;
+        font-weight: 400;
+		font-size: 1.1em;
+		line-height: 1.5em;
 	}
 
 		ul li {
